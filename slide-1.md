@@ -3,4 +3,4 @@
 
 
 
-[Index](./README.md) [Slide 2](./slide-2.md)
+[Slide Anterior](./README.md) [Proximo Slide](./slide-2.md)
